@@ -1,12 +1,16 @@
 .service{
     display:grid;
-
+    justify-content: space-between;
     grid-template-columns: repeat(3,1fr);
     gap: 20px;
+    text-align: center;
+    font-family: cursive;
 
 }
 .service-item{
     background-color: rgb(213, 160, 243);
+    border: 1px solid black;
     padding: 10px;
+    border-radius: 5px;
 
 }

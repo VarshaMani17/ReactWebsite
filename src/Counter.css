@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    background-color: aqua;
+}
+
+.counter-box{
+    color: black;
+    font-family: cursive;
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-evenly;
+    text-align:center;
+    background-color: rgb(208, 167, 247);
+}

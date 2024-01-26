@@ -1,10 +1,13 @@
 import React from 'react'
-import Service from './Service'
+
+import Effect from './Effect'
+import Callback from './Callback'
 export default function About() {
   return (
     <div>
-        <Service/>
        
+        <Effect/>
+        <Callback/>
     </div>
   )
 }

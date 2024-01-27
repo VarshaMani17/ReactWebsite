@@ -1,5 +1,4 @@
 import React,{ useState, useCallback} from 'react'
-
 const Callbacks = () => {
     const [count, setCount ]=useState(0);
 

@@ -23,6 +23,7 @@ export default function Counter() {
    
   return (
     <div>
+        
         <div className='container'>
              
              <div className='counter-box'>
